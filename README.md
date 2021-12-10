@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 - Read more about my [Blog](https://blog.csdn.net/ouyang_peng)
 - Ping me by [Email](oypcz@foxmail.com)
-- WeChat public account 
+- Follow the WeChat Official accounts : [**字节卷动**]
 
-
-![](https://img-blog.csdnimg.cn/7a29206eb3d647adbe40e097be4eeeb9.jpg)
+![image](https://user-images.githubusercontent.com/5885735/145502036-da57e689-483b-477e-bdc9-767412db0a08.png)
