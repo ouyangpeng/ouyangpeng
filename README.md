@@ -16,18 +16,23 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 , I'm 字节卷动 (Byte Involution)
 
-> + You will never know how excellent you are unless you impel yourself once. 
-> + When you don't call others a bigwig or a guru, you have made a lot of progress!
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+字节卷动+(+Byte+Involution+))
 
 ### Github State
 ![](https://github-readme-stats.vercel.app/api?username=ouyangpeng&show_icons=true&theme=radical)
+### Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouyangpeng&layout=compact)
+### Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ouyangpeng&theme=onedark)
+### Github Activity Graph
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=ouyangpeng)]
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ouyangpeng)
 
 ### CONTACT
 
 - Read more about my [Blog](https://blog.csdn.net/ouyang_peng)
 - Ping me by [Email](oypcz@foxmail.com)
-- Follow the WeChat Official accounts : [**字节卷动**]
+- Follow the WeChat Official accounts : [**字节卷动 (Byte Involution)**]
 
 ![image](https://user-images.githubusercontent.com/5885735/145502036-da57e689-483b-477e-bdc9-767412db0a08.png)
