@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### CONTACT
 
-- Read more about my [Blog](https://blog.csdn.net/ouyang_peng)
-- Ping me by [Email](oypcz@foxmail.com)
+- Read more about my [Blog: 字节卷动的CSDN博客](https://blog.csdn.net/ouyang_peng)
+- Ping me by My Email: oypcz@foxmail.com
 - Follow the WeChat Official accounts : [**字节卷动 (Byte Involution)**]
 
 ![image](https://user-images.githubusercontent.com/5885735/145502036-da57e689-483b-477e-bdc9-767412db0a08.png)
