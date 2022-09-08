@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋 , I'm 字节卷动 (Byte Involution)
+### Hi there 👋 , I'm Byte Involution (字节卷动)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+字节卷动+(+Byte+Involution+))
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Byte+Involution+(+字节卷动+))
 
 ### Github State
 ![](https://github-readme-stats.vercel.app/api?username=ouyangpeng&show_icons=true&theme=radical)
